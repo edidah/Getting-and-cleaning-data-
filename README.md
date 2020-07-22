@@ -1,5 +1,7 @@
 # Getting-and-cleaning-data-
 Data obtaining and tidying
+
+
 This repository is for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
 
 Dataset
